@@ -1,10 +1,10 @@
-<img width=100% align="center"  src="https://github.com/Luizhenriquex/Luizhenriquepx/assets/116771852/eda3f30f-b20f-4fd6-a328-4921fb2f9c6f"/>
+<img width=100% align="center"  src="https://github.com/Luizhenriquex/Luizhenriquex/assets/116771852/eda3f30f-b20f-4fd6-a328-4921fb2f9c6f"/>
 
 <p align="center">👨‍💻 Desenvolvedor Web. <br><br> Desenvolvimento frontend, com a criação de interfaces intuitivas. Eu sou <strong>fascinado em novas descobertas e</strong> na resolução de problemas. Atualmente, opero como <strong>desenvolvedor frontend</strong> focado no desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luizhenriquex&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Luizhenriquex&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luizhenriquepx&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Luizhenriquepx&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
